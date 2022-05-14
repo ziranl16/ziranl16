@@ -2,6 +2,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ziranl16&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake Game](https://github.com/ziranl16/ziranl16/blob/master/github-contribution-grid-snake.gif)
+
 <!--
 **ziranl16/ziranl16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
